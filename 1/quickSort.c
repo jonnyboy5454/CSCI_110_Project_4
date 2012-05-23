@@ -19,7 +19,7 @@ int main() {
 	}
 	printf("\n");
 
-	printf("Quicksorted random integers:\n");
+	printf("Test Test:\n");
 	quickSort(x, 0, 49);
 	for (i = 0; i < 50; i++) {
 		printf("%d ", x[i]);
